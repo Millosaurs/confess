@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Yooooo!",
+    introTitle: 'MEOW MEOW',
+    introDesc: `Earth is inherently strange
+    But why do I keep going the wrong way?
+    Lost in my lonely heart
+    Behind the word love is love`,
+    btnIntro: '(^///^)',
+    title: 'Did I fall in love at first sight, YES!',
+    desc: 'Maybe I was drunk from the moment I saw that smile',
+    btnYes: 'YEAH 🤭',
+    btnNo: 'NO :3',
+    question: 'There are more than 7 billion people in the world, why do you love me <3',
+    btnReply: 'Sent to you <3',
+    reply: 'If you love, you love, if you dont love, you love <33333333',
+    mess: 'I know. Love you so much',
+    messDesc: 'Tonight Ill tell story will u listen ?',
+    btnAccept: 'Oki <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' 
 }
